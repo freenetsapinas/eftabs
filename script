@@ -3,9 +3,9 @@ ln -fs /usr/share/zoneinfo/Asia/Manila /etc/localtime
 #change this according to your database details
 #Database Details
 dbhost='184.168.112.214';
-dbuser='eftabs-user';
-dbpass='M=$XC.DduoG4';
-dbname='eftabs-name';
+dbuser='zoeyeftabs-user';
+dbpass='XpzBW;tgGJ9e';
+dbname='zoey-eftabs';
 dbport='3306';
 dbport='3306';
 RED='\033[01;31m';
